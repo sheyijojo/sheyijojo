@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sheyi.
-- 👀 I’m interested in Backend, Data Analysis, Data science and Data Engineering portfolio projects
-- 🌱 I’m currently studying Computer Information Systems and Business Analytics at West Texas A&M University 
+- 👀 Backend, Cloud Engineering & DevOps.
+- 🌱 Msc - Computer Information Systems and Business Analytics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ seezie@gmail.com
 
