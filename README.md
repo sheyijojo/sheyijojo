@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sheyi.
-- 👀 Backend, Cloud Engineering & DevOps.
-- 🌱 Msc - Computer Information Systems and Business Analytics 
-- 💞️ I’m looking to collaborate on ...
+- 👀 Cloud Engineering, Backend,  & DevOps.
+- 🌱 MSc - Computer Information Systems and Business Analytics 
+- 💞️See you in the cloud ...
 - 📫 How to reach me @ seezie@gmail.com
 
 <!---
