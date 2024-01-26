@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Sheyi.
 - 👀 Cloud Engineering, Backend,  & DevOps.
+-  I advocate for TOIL reduction approaches and methodologies 
 - 🌱 MSc - Computer Information Systems and Business Analytics 
 - 💞️See you in the cloud ...
 - 📫 How to reach me @ seezie@gmail.com
